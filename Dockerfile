@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-WORKDIR /app
+
 
 COPY . /sample-1.py
 
